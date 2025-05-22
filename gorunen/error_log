@@ -1,0 +1,131 @@
+[05-Feb-2025 02:04:21 Europe/Istanbul] PHP Warning:  Undefined variable $key in /home/u2118044/public_html/index.php on line 151
+[05-Feb-2025 02:04:21 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function fncImgPathSite() in /home/u2118044/public_html/index.php:154
+Stack trace:
+#0 {main}
+  thrown in /home/u2118044/public_html/index.php on line 154
+[05-Feb-2025 02:04:23 Europe/Istanbul] PHP Warning:  Undefined variable $key in /home/u2118044/public_html/index.php on line 151
+[05-Feb-2025 02:04:23 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function fncImgPathSite() in /home/u2118044/public_html/index.php:154
+Stack trace:
+#0 {main}
+  thrown in /home/u2118044/public_html/index.php on line 154
+[05-Feb-2025 02:04:24 Europe/Istanbul] PHP Warning:  Undefined variable $key in /home/u2118044/public_html/index.php on line 151
+[05-Feb-2025 02:04:24 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function fncImgPathSite() in /home/u2118044/public_html/index.php:154
+Stack trace:
+#0 {main}
+  thrown in /home/u2118044/public_html/index.php on line 154
+[05-Feb-2025 02:04:27 Europe/Istanbul] PHP Warning:  Undefined variable $key in /home/u2118044/public_html/index.php on line 151
+[05-Feb-2025 02:04:27 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function fncImgPathSite() in /home/u2118044/public_html/index.php:154
+Stack trace:
+#0 {main}
+  thrown in /home/u2118044/public_html/index.php on line 154
+[05-Feb-2025 02:04:43 Europe/Istanbul] PHP Warning:  Undefined variable $key in /home/u2118044/public_html/index.php on line 151
+[05-Feb-2025 02:04:43 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function fncImgPathSite() in /home/u2118044/public_html/index.php:154
+Stack trace:
+#0 {main}
+  thrown in /home/u2118044/public_html/index.php on line 154
+[05-Feb-2025 02:04:53 Europe/Istanbul] PHP Warning:  Undefined variable $key in /home/u2118044/public_html/index.php on line 151
+[05-Feb-2025 02:04:53 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function fncImgPathSite() in /home/u2118044/public_html/index.php:154
+Stack trace:
+#0 {main}
+  thrown in /home/u2118044/public_html/index.php on line 154
+[05-Feb-2025 02:04:54 Europe/Istanbul] PHP Warning:  Undefined variable $key in /home/u2118044/public_html/index.php on line 151
+[05-Feb-2025 02:04:54 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function fncImgPathSite() in /home/u2118044/public_html/index.php:154
+Stack trace:
+#0 {main}
+  thrown in /home/u2118044/public_html/index.php on line 154
+[05-Feb-2025 02:05:07 Europe/Istanbul] PHP Warning:  Undefined variable $key in /home/u2118044/public_html/index.php on line 151
+[05-Feb-2025 02:05:07 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function fncImgPathSite() in /home/u2118044/public_html/index.php:154
+Stack trace:
+#0 {main}
+  thrown in /home/u2118044/public_html/index.php on line 154
+[05-Feb-2025 02:05:09 Europe/Istanbul] PHP Warning:  Undefined variable $key in /home/u2118044/public_html/index.php on line 151
+[05-Feb-2025 02:05:09 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function fncImgPathSite() in /home/u2118044/public_html/index.php:154
+Stack trace:
+#0 {main}
+  thrown in /home/u2118044/public_html/index.php on line 154
+[05-Feb-2025 11:33:10 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: PDO::__construct(): Error while reading greeting packet. PID=3682504 in /home/u2118044/public_html/class/db.php:19
+Stack trace:
+#0 /home/u2118044/public_html/class/db.php(19): PDO->__construct()
+#1 /home/u2118044/public_html/class/config.php(30): DB::baglan()
+#2 /home/u2118044/public_html/index.php(2): require_once('/home/u2118044/...')
+#3 {main}
+
+Next PDOException: SQLSTATE[HY000] [2006] MySQL server has gone away in /home/u2118044/public_html/class/db.php:19
+Stack trace:
+#0 /home/u2118044/public_html/class/db.php(19): PDO->__construct()
+#1 /home/u2118044/public_html/class/config.php(30): DB::baglan()
+#2 /home/u2118044/public_html/index.php(2): require_once('/home/u2118044/...')
+#3 {main}
+  thrown in /home/u2118044/public_html/class/db.php on line 19
+[05-Feb-2025 11:33:12 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home/u2118044/public_html/class/db.php:19
+Stack trace:
+#0 /home/u2118044/public_html/class/db.php(19): PDO->__construct()
+#1 /home/u2118044/public_html/class/config.php(30): DB::baglan()
+#2 /home/u2118044/public_html/index.php(2): require_once('/home/u2118044/...')
+#3 {main}
+  thrown in /home/u2118044/public_html/class/db.php on line 19
+[05-Feb-2025 11:33:14 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home/u2118044/public_html/class/db.php:19
+Stack trace:
+#0 /home/u2118044/public_html/class/db.php(19): PDO->__construct()
+#1 /home/u2118044/public_html/class/config.php(30): DB::baglan()
+#2 /home/u2118044/public_html/index.php(2): require_once('/home/u2118044/...')
+#3 {main}
+  thrown in /home/u2118044/public_html/class/db.php on line 19
+[05-Feb-2025 11:33:20 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home/u2118044/public_html/class/db.php:19
+Stack trace:
+#0 /home/u2118044/public_html/class/db.php(19): PDO->__construct()
+#1 /home/u2118044/public_html/class/config.php(30): DB::baglan()
+#2 /home/u2118044/public_html/index.php(2): require_once('/home/u2118044/...')
+#3 {main}
+  thrown in /home/u2118044/public_html/class/db.php on line 19
+[13-May-2025 17:36:10 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u2118044/public_html/header2.php:11
+Stack trace:
+#0 /home/u2118044/public_html/index2.php(40): include()
+#1 {main}
+  thrown in /home/u2118044/public_html/header2.php on line 11
+[13-May-2025 17:36:25 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u2118044/public_html/header2.php:11
+Stack trace:
+#0 /home/u2118044/public_html/index2.php(40): include()
+#1 {main}
+  thrown in /home/u2118044/public_html/header2.php on line 11
+[13-May-2025 17:36:26 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u2118044/public_html/header2.php:11
+Stack trace:
+#0 /home/u2118044/public_html/index2.php(40): include()
+#1 {main}
+  thrown in /home/u2118044/public_html/header2.php on line 11
+[20-May-2025 22:19:48 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u2118044/public_html/isbirliklerimiz.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/u2118044/public_html/isbirliklerimiz.php on line 7
+[20-May-2025 22:20:10 Europe/Istanbul] PHP Warning:  require_once(/home/u2118044/public_htmlclass/config.php): Failed to open stream: No such file or directory in /home/u2118044/public_html/isbirliklerimiz.php on line 2
+[20-May-2025 22:20:10 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Failed opening required '/home/u2118044/public_htmlclass/config.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u2118044/public_html/isbirliklerimiz.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/u2118044/public_html/isbirliklerimiz.php on line 2
+[20-May-2025 22:20:18 Europe/Istanbul] PHP Warning:  require_once(/home/u2118044/public_htmlclass/db.php): Failed to open stream: No such file or directory in /home/u2118044/public_html/isbirliklerimiz.php on line 2
+[20-May-2025 22:20:18 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Failed opening required '/home/u2118044/public_htmlclass/db.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u2118044/public_html/isbirliklerimiz.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/u2118044/public_html/isbirliklerimiz.php on line 2
+[20-May-2025 22:20:45 Europe/Istanbul] PHP Warning:  require_once(/home/u2118044/public_htmlclass/db.php): Failed to open stream: No such file or directory in /home/u2118044/public_html/isbirliklerimiz.php on line 2
+[20-May-2025 22:20:45 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Failed opening required '/home/u2118044/public_htmlclass/db.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u2118044/public_html/isbirliklerimiz.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/u2118044/public_html/isbirliklerimiz.php on line 2
+[20-May-2025 22:20:50 Europe/Istanbul] PHP Warning:  require_once(/home/u2118044/public_htmlclass/db.php): Failed to open stream: No such file or directory in /home/u2118044/public_html/isbirliklerimiz.php on line 2
+[20-May-2025 22:20:50 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Failed opening required '/home/u2118044/public_htmlclass/db.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u2118044/public_html/isbirliklerimiz.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/u2118044/public_html/isbirliklerimiz.php on line 2
+[20-May-2025 22:22:47 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u2118044/public_html/isbirliklerimiz.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/u2118044/public_html/isbirliklerimiz.php on line 7
+[20-May-2025 22:23:03 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u2118044/public_html/isbirliklerimiz.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/u2118044/public_html/isbirliklerimiz.php on line 7
+[20-May-2025 22:25:45 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/u2118044/public_html/isbirliklerimiz.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/u2118044/public_html/isbirliklerimiz.php on line 7
